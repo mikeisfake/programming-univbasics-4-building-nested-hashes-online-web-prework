@@ -1,5 +1,11 @@
 def base_hash
+<<<<<<< HEAD
 	{:railroads => {}}
+=======
+	{:railroads => {},
+	 :pieces => {}
+	}
+>>>>>>> ecb627faea17918f1eb087d2792f500be2e00af2
 end
 
 def monopoly_with_second_tier
